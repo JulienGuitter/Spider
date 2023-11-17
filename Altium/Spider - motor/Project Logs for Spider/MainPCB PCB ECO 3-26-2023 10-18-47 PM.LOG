@@ -1,0 +1,210 @@
+Added Component: Designator=C1(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=Prog Left(BARRETTE_3X2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3X2"; VariantName = "[No Variations]"
+Added Component: Designator=Prog Right(BARRETTE_3X2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3X2"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESISTANCE_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESISTANCE_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(QUARTZ_DROIT_BP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "DROIT_BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(QUARTZ_DROIT_BP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "DROIT_BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BackLeg-4
+Added Pin To Net: NetName=+5 Pin=BackLeg-5
+Added Pin To Net: NetName=+5 Pin=BackLeg-6
+Added Pin To Net: NetName=GND Pin=BackLeg-7
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+5 Pin=External-1
+Added Pin To Net: NetName=GND Pin=External-7
+Added Pin To Net: NetName=GND Pin=FrontLeg-4
+Added Pin To Net: NetName=+5 Pin=FrontLeg-5
+Added Pin To Net: NetName=+5 Pin=FrontLeg-6
+Added Pin To Net: NetName=GND Pin=FrontLeg-7
+Added Pin To Net: NetName=+5 Pin=LeftATmeg-4
+Added Pin To Net: NetName=+5 Pin=LeftATmeg-6
+Added Pin To Net: NetName=+5 Pin=LeftATmeg-18
+Added Pin To Net: NetName=GND Pin=MiddleLeg-4
+Added Pin To Net: NetName=+5 Pin=MiddleLeg-5
+Added Pin To Net: NetName=+5 Pin=MiddleLeg-6
+Added Pin To Net: NetName=GND Pin=MiddleLeg-7
+Added Pin To Net: NetName=+5 Pin=Prog Left-5
+Added Pin To Net: NetName=GND Pin=Prog Left-6
+Added Pin To Net: NetName=+5 Pin=Prog Right-5
+Added Pin To Net: NetName=GND Pin=Prog Right-6
+Added Pin To Net: NetName=+5 Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=RightATmeg-4
+Added Pin To Net: NetName=+5 Pin=RightATmeg-6
+Added Pin To Net: NetName=+5 Pin=RightATmeg-18
+Added Pin To Net: NetName=MISO1 Pin=LeftATmeg-16
+Added Pin To Net: NetName=MISO1 Pin=Prog Left-2
+Added Net: Name=MISO1
+Added Pin To Net: NetName=MISO2 Pin=Prog Right-2
+Added Pin To Net: NetName=MISO2 Pin=RightATmeg-16
+Added Net: Name=MISO2
+Added Pin To Net: NetName=MOSI1 Pin=LeftATmeg-15
+Added Pin To Net: NetName=MOSI1 Pin=Prog Left-1
+Added Net: Name=MOSI1
+Added Pin To Net: NetName=MOSI2 Pin=Prog Right-1
+Added Pin To Net: NetName=MOSI2 Pin=RightATmeg-15
+Added Net: Name=MOSI2
+Added Pin To Net: NetName=NetBackLeg_1 Pin=BackLeg-1
+Added Pin To Net: NetName=NetBackLeg_1 Pin=LeftATmeg-1
+Added Net: Name=NetBackLeg_1
+Added Pin To Net: NetName=NetBackLeg_2 Pin=BackLeg-2
+Added Pin To Net: NetName=NetBackLeg_2 Pin=LeftATmeg-32
+Added Net: Name=NetBackLeg_2
+Added Pin To Net: NetName=NetBackLeg_3 Pin=BackLeg-3
+Added Pin To Net: NetName=NetBackLeg_3 Pin=LeftATmeg-2
+Added Net: Name=NetBackLeg_3
+Added Pin To Net: NetName=NetBackLeg_8 Pin=BackLeg-8
+Added Pin To Net: NetName=NetBackLeg_8 Pin=RightATmeg-2
+Added Net: Name=NetBackLeg_8
+Added Pin To Net: NetName=NetBackLeg_9 Pin=BackLeg-9
+Added Pin To Net: NetName=NetBackLeg_9 Pin=RightATmeg-32
+Added Net: Name=NetBackLeg_9
+Added Pin To Net: NetName=NetBackLeg_10 Pin=BackLeg-10
+Added Pin To Net: NetName=NetBackLeg_10 Pin=RightATmeg-1
+Added Net: Name=NetBackLeg_10
+Added Pin To Net: NetName=NetFrontLeg_1 Pin=FrontLeg-1
+Added Pin To Net: NetName=NetFrontLeg_1 Pin=LeftATmeg-10
+Added Net: Name=NetFrontLeg_1
+Added Pin To Net: NetName=NetFrontLeg_2 Pin=FrontLeg-2
+Added Pin To Net: NetName=NetFrontLeg_2 Pin=LeftATmeg-9
+Added Net: Name=NetFrontLeg_2
+Added Pin To Net: NetName=NetFrontLeg_3 Pin=FrontLeg-3
+Added Pin To Net: NetName=NetFrontLeg_3 Pin=LeftATmeg-11
+Added Net: Name=NetFrontLeg_3
+Added Pin To Net: NetName=NetFrontLeg_8 Pin=FrontLeg-8
+Added Pin To Net: NetName=NetFrontLeg_8 Pin=RightATmeg-11
+Added Net: Name=NetFrontLeg_8
+Added Pin To Net: NetName=NetFrontLeg_9 Pin=FrontLeg-9
+Added Pin To Net: NetName=NetFrontLeg_9 Pin=RightATmeg-9
+Added Net: Name=NetFrontLeg_9
+Added Pin To Net: NetName=NetFrontLeg_10 Pin=FrontLeg-10
+Added Pin To Net: NetName=NetFrontLeg_10 Pin=RightATmeg-10
+Added Net: Name=NetFrontLeg_10
+Added Pin To Net: NetName=NetLeftATmeg_12 Pin=LeftATmeg-12
+Added Pin To Net: NetName=NetLeftATmeg_12 Pin=MiddleLeg-3
+Added Net: Name=NetLeftATmeg_12
+Added Pin To Net: NetName=NetLeftATmeg_13 Pin=LeftATmeg-13
+Added Pin To Net: NetName=NetLeftATmeg_13 Pin=MiddleLeg-1
+Added Net: Name=NetLeftATmeg_13
+Added Pin To Net: NetName=NetLeftATmeg_14 Pin=LeftATmeg-14
+Added Pin To Net: NetName=NetLeftATmeg_14 Pin=MiddleLeg-2
+Added Net: Name=NetLeftATmeg_14
+Added Pin To Net: NetName=NetMiddleLeg_8 Pin=MiddleLeg-8
+Added Pin To Net: NetName=NetMiddleLeg_8 Pin=RightATmeg-12
+Added Net: Name=NetMiddleLeg_8
+Added Pin To Net: NetName=NetMiddleLeg_9 Pin=MiddleLeg-9
+Added Pin To Net: NetName=NetMiddleLeg_9 Pin=RightATmeg-14
+Added Net: Name=NetMiddleLeg_9
+Added Pin To Net: NetName=NetMiddleLeg_10 Pin=MiddleLeg-10
+Added Pin To Net: NetName=NetMiddleLeg_10 Pin=RightATmeg-13
+Added Net: Name=NetMiddleLeg_10
+Added Pin To Net: NetName=OSC11 Pin=C5-2
+Added Pin To Net: NetName=OSC11 Pin=LeftATmeg-7
+Added Pin To Net: NetName=OSC11 Pin=Y1-1
+Added Net: Name=OSC11
+Added Pin To Net: NetName=OSC12 Pin=C6-2
+Added Pin To Net: NetName=OSC12 Pin=LeftATmeg-8
+Added Pin To Net: NetName=OSC12 Pin=Y1-2
+Added Net: Name=OSC12
+Added Pin To Net: NetName=OSC21 Pin=C7-2
+Added Pin To Net: NetName=OSC21 Pin=RightATmeg-7
+Added Pin To Net: NetName=OSC21 Pin=Y2-1
+Added Net: Name=OSC21
+Added Pin To Net: NetName=OSC22 Pin=C8-2
+Added Pin To Net: NetName=OSC22 Pin=RightATmeg-8
+Added Pin To Net: NetName=OSC22 Pin=Y2-2
+Added Net: Name=OSC22
+Added Pin To Net: NetName=Reset1 Pin=LeftATmeg-29
+Added Pin To Net: NetName=Reset1 Pin=Prog Left-4
+Added Pin To Net: NetName=Reset1 Pin=R?-2
+Added Net: Name=Reset1
+Added Pin To Net: NetName=Reset2 Pin=Prog Right-4
+Added Pin To Net: NetName=Reset2 Pin=R?-2
+Added Pin To Net: NetName=Reset2 Pin=RightATmeg-29
+Added Net: Name=Reset2
+Added Pin To Net: NetName=SCK1 Pin=LeftATmeg-17
+Added Pin To Net: NetName=SCK1 Pin=Prog Left-3
+Added Net: Name=SCK1
+Added Pin To Net: NetName=SCK2 Pin=Prog Right-3
+Added Pin To Net: NetName=SCK2 Pin=RightATmeg-17
+Added Net: Name=SCK2
+Added Pin To Net: NetName=SCL Pin=External-3
+Added Pin To Net: NetName=SCL Pin=LeftATmeg-28
+Added Pin To Net: NetName=SCL Pin=RightATmeg-28
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=External-5
+Added Pin To Net: NetName=SDA Pin=LeftATmeg-27
+Added Pin To Net: NetName=SDA Pin=RightATmeg-27
+Added Net: Name=SDA
+Added Member To Class: ClassName=Designator Member=Component C1 CMS_0805_AVCC
+Added Member To Class: ClassName=Designator Member=Component C2 CMS_0805_VCC
+Added Member To Class: ClassName=Designator Member=Component C3 CMS_0805_AVCC
+Added Member To Class: ClassName=Designator Member=Component C4 CMS_0805_VCC
+Added Member To Class: ClassName=Designator Member=Component C5 CMS_0805
+Added Member To Class: ClassName=Designator Member=Component C6 CMS_0805
+Added Member To Class: ClassName=Designator Member=Component C7 CMS_0805
+Added Member To Class: ClassName=Designator Member=Component C8 CMS_0805
+Added Member To Class: ClassName=Designator Member=Component Prog Left BARRETTE_3 CONTACTS_2 RANGEES_MALE_DROITE
+Added Member To Class: ClassName=Designator Member=Component Prog Right BARRETTE_3 CONTACTS_2 RANGEES_MALE_DROITE
+Added Member To Class: ClassName=Designator Member=Component R? RESISTANCE_CMS_0805
+Added Member To Class: ClassName=Designator Member=Component R? RESISTANCE_CMS_0805
+Added Member To Class: ClassName=Designator Member=Component Y1 QUARTZ_DROIT_BAS_PROFIL
+Added Member To Class: ClassName=Designator Member=Component Y2 QUARTZ_DROIT_BAS_PROFIL

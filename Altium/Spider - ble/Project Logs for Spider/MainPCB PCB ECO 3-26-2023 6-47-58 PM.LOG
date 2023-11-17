@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=BackLeg
+Change Component Designator: OldDesignator=J2 NewDesignator=External
+Change Component Designator: OldDesignator=J3 NewDesignator=MiddleLeg
+Change Component Designator: OldDesignator=J4 NewDesignator=FrontLeg
+Change Component Designator: OldDesignator=U2 NewDesignator=LeftATmeg
+Change Component Designator: OldDesignator=U3 NewDesignator=RightATmeg

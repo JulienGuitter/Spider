@@ -1,0 +1,31 @@
+Added Component: Designator=J28(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J29(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J30(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J31(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J28-2
+Added Pin To Net: NetName=GND Pin=J28-3
+Added Pin To Net: NetName=+5 Pin=J29-8
+Added Pin To Net: NetName=GND Pin=J29-10
+Added Pin To Net: NetName=+5 Pin=J30-2
+Added Pin To Net: NetName=GND Pin=J30-3
+Added Pin To Net: NetName=+5 Pin=J31-2
+Added Pin To Net: NetName=GND Pin=J31-3
+Added Pin To Net: NetName=NetJ28_1 Pin=J28-1
+Added Pin To Net: NetName=NetJ28_1 Pin=J29-2
+Added Net: Name=NetJ28_1
+Added Pin To Net: NetName=NetJ29_4 Pin=J29-4
+Added Pin To Net: NetName=NetJ29_4 Pin=J30-1
+Added Net: Name=NetJ29_4
+Added Pin To Net: NetName=NetJ29_6 Pin=J29-6
+Added Pin To Net: NetName=NetJ29_6 Pin=J31-1
+Added Net: Name=NetJ29_6
+Added Class: Name=Leg
+Added Room: Name=Leg

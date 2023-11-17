@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+5 Pin=*-9
+Added Pin To Net: NetName=GND Pin=*-10
+Added Room: Name=ESPCAM
+Added Room: Name=ShieldUART

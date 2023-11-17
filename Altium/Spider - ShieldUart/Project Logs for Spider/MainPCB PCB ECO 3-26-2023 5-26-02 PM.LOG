@@ -1,0 +1,166 @@
+Added Component: Designator=J4(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J5(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J6(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J7(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J8(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J9(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J10(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J11(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J12(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J13(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J14(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J15(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J16(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J17(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J18(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J19(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J20(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J21(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J22(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J23(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J5-8
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J9-8
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J11-3
+Added Pin To Net: NetName=GND Pin=J12-3
+Added Pin To Net: NetName=GND Pin=J13-8
+Added Pin To Net: NetName=GND Pin=J14-3
+Added Pin To Net: NetName=GND Pin=J15-3
+Added Pin To Net: NetName=GND Pin=J16-3
+Added Pin To Net: NetName=GND Pin=J17-8
+Added Pin To Net: NetName=GND Pin=J18-3
+Added Pin To Net: NetName=GND Pin=J19-3
+Added Pin To Net: NetName=GND Pin=J20-3
+Added Pin To Net: NetName=GND Pin=J21-8
+Added Pin To Net: NetName=GND Pin=J22-3
+Added Pin To Net: NetName=GND Pin=J23-3
+Added Pin To Net: NetName=+5 Pin=J4-2
+Added Pin To Net: NetName=+5 Pin=J5-10
+Added Pin To Net: NetName=+5 Pin=J6-2
+Added Pin To Net: NetName=+5 Pin=J7-2
+Added Pin To Net: NetName=+5 Pin=J8-2
+Added Pin To Net: NetName=+5 Pin=J9-10
+Added Pin To Net: NetName=+5 Pin=J10-2
+Added Pin To Net: NetName=+5 Pin=J11-2
+Added Pin To Net: NetName=+5 Pin=J12-2
+Added Pin To Net: NetName=+5 Pin=J13-10
+Added Pin To Net: NetName=+5 Pin=J14-2
+Added Pin To Net: NetName=+5 Pin=J15-2
+Added Pin To Net: NetName=+5 Pin=J16-2
+Added Pin To Net: NetName=+5 Pin=J17-10
+Added Pin To Net: NetName=+5 Pin=J18-2
+Added Pin To Net: NetName=+5 Pin=J19-2
+Added Pin To Net: NetName=+5 Pin=J20-2
+Added Pin To Net: NetName=+5 Pin=J21-10
+Added Pin To Net: NetName=+5 Pin=J22-2
+Added Pin To Net: NetName=+5 Pin=J23-2
+Added Net: Name=+5
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=J5-2
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-4
+Added Pin To Net: NetName=NetJ5_4 Pin=J6-1
+Added Net: Name=NetJ5_4
+Added Pin To Net: NetName=NetJ5_6 Pin=J5-6
+Added Pin To Net: NetName=NetJ5_6 Pin=J7-1
+Added Net: Name=NetJ5_6
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=J9-2
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ9_4 Pin=J9-4
+Added Pin To Net: NetName=NetJ9_4 Pin=J10-1
+Added Net: Name=NetJ9_4
+Added Pin To Net: NetName=NetJ9_6 Pin=J9-6
+Added Pin To Net: NetName=NetJ9_6 Pin=J11-1
+Added Net: Name=NetJ9_6
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ12_1 Pin=J13-2
+Added Net: Name=NetJ12_1
+Added Pin To Net: NetName=NetJ13_4 Pin=J13-4
+Added Pin To Net: NetName=NetJ13_4 Pin=J14-1
+Added Net: Name=NetJ13_4
+Added Pin To Net: NetName=NetJ13_6 Pin=J13-6
+Added Pin To Net: NetName=NetJ13_6 Pin=J15-1
+Added Net: Name=NetJ13_6
+Added Pin To Net: NetName=NetJ16_1 Pin=J16-1
+Added Pin To Net: NetName=NetJ16_1 Pin=J17-2
+Added Net: Name=NetJ16_1
+Added Pin To Net: NetName=NetJ17_4 Pin=J17-4
+Added Pin To Net: NetName=NetJ17_4 Pin=J18-1
+Added Net: Name=NetJ17_4
+Added Pin To Net: NetName=NetJ17_6 Pin=J17-6
+Added Pin To Net: NetName=NetJ17_6 Pin=J19-1
+Added Net: Name=NetJ17_6
+Added Pin To Net: NetName=NetJ20_1 Pin=J20-1
+Added Pin To Net: NetName=NetJ20_1 Pin=J21-2
+Added Net: Name=NetJ20_1
+Added Pin To Net: NetName=NetJ21_4 Pin=J21-4
+Added Pin To Net: NetName=NetJ21_4 Pin=J22-1
+Added Net: Name=NetJ21_4
+Added Pin To Net: NetName=NetJ21_6 Pin=J21-6
+Added Pin To Net: NetName=NetJ21_6 Pin=J23-1
+Added Net: Name=NetJ21_6
+Added Member To Class: ClassName=MainSchema Member=Component J4 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J5 BARRETTE_5 CONTACTS_2 RANGEES_MALE_COUDEE
+Added Member To Class: ClassName=MainSchema Member=Component J6 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J7 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J8 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J9 BARRETTE_5 CONTACTS_2 RANGEES_MALE_COUDEE
+Added Member To Class: ClassName=MainSchema Member=Component J10 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J11 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J12 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J13 BARRETTE_5 CONTACTS_2 RANGEES_MALE_COUDEE
+Added Member To Class: ClassName=MainSchema Member=Component J14 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J15 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J16 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J17 BARRETTE_5 CONTACTS_2 RANGEES_MALE_COUDEE
+Added Member To Class: ClassName=MainSchema Member=Component J18 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J19 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J20 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J21 BARRETTE_5 CONTACTS_2 RANGEES_MALE_COUDEE
+Added Member To Class: ClassName=MainSchema Member=Component J22 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=MainSchema Member=Component J23 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE

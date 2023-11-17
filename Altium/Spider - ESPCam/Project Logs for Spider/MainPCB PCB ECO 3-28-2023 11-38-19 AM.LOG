@@ -1,0 +1,136 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=*(Raspberry Pico)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(BARRETTE_20_F_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "F_D_20"; VariantName = "[No Variations]"
+Added Component: Designator=J5(BARRETTE_20_F_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "F_D_20"; VariantName = "[No Variations]"
+Added Component: Designator=J6(BARRETTE_4_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-38
+Added Pin To Net: NetName=+5 Pin=*-39
+Added Pin To Net: NetName=+5 Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=+5 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=J5-20
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=J5-19
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=J5-18
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=J5-17
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=J5-16
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=J5-15
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_7 Pin=J5-14
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_8 Pin=J5-13
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=J5-12
+Added Net: Name=Net*_9
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=J5-11
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=Net*_13 Pin=*-13
+Added Pin To Net: NetName=Net*_13 Pin=J5-8
+Added Net: Name=Net*_13
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=J5-7
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_15 Pin=J5-6
+Added Net: Name=Net*_15
+Added Pin To Net: NetName=Net*_16 Pin=*-16
+Added Pin To Net: NetName=Net*_16 Pin=J5-5
+Added Net: Name=Net*_16
+Added Pin To Net: NetName=Net*_17 Pin=*-17
+Added Pin To Net: NetName=Net*_17 Pin=J5-4
+Added Net: Name=Net*_17
+Added Pin To Net: NetName=Net*_18 Pin=*-18
+Added Pin To Net: NetName=Net*_18 Pin=J5-3
+Added Net: Name=Net*_18
+Added Pin To Net: NetName=Net*_19 Pin=*-19
+Added Pin To Net: NetName=Net*_19 Pin=J5-2
+Added Net: Name=Net*_19
+Added Pin To Net: NetName=Net*_20 Pin=*-20
+Added Pin To Net: NetName=Net*_20 Pin=J5-1
+Added Net: Name=Net*_20
+Added Pin To Net: NetName=Net*_21 Pin=*-21
+Added Pin To Net: NetName=Net*_21 Pin=J4-20
+Added Net: Name=Net*_21
+Added Pin To Net: NetName=Net*_22 Pin=*-22
+Added Pin To Net: NetName=Net*_22 Pin=J4-19
+Added Net: Name=Net*_22
+Added Pin To Net: NetName=Net*_23 Pin=*-23
+Added Pin To Net: NetName=Net*_23 Pin=J4-18
+Added Net: Name=Net*_23
+Added Pin To Net: NetName=Net*_24 Pin=*-24
+Added Pin To Net: NetName=Net*_24 Pin=J4-17
+Added Net: Name=Net*_24
+Added Pin To Net: NetName=Net*_25 Pin=*-25
+Added Pin To Net: NetName=Net*_25 Pin=J4-16
+Added Net: Name=Net*_25
+Added Pin To Net: NetName=Net*_26 Pin=*-26
+Added Pin To Net: NetName=Net*_26 Pin=J4-15
+Added Net: Name=Net*_26
+Added Pin To Net: NetName=Net*_27 Pin=*-27
+Added Pin To Net: NetName=Net*_27 Pin=J4-14
+Added Net: Name=Net*_27
+Added Pin To Net: NetName=Net*_28 Pin=*-28
+Added Pin To Net: NetName=Net*_28 Pin=J4-13
+Added Net: Name=Net*_28
+Added Pin To Net: NetName=Net*_29 Pin=*-29
+Added Pin To Net: NetName=Net*_29 Pin=J4-12
+Added Net: Name=Net*_29
+Added Pin To Net: NetName=Net*_30 Pin=*-30
+Added Pin To Net: NetName=Net*_30 Pin=J4-11
+Added Net: Name=Net*_30
+Added Pin To Net: NetName=Net*_31 Pin=*-31
+Added Pin To Net: NetName=Net*_31 Pin=J4-10
+Added Net: Name=Net*_31
+Added Pin To Net: NetName=Net*_32 Pin=*-32
+Added Pin To Net: NetName=Net*_32 Pin=J4-9
+Added Net: Name=Net*_32
+Added Pin To Net: NetName=Net*_33 Pin=*-33
+Added Pin To Net: NetName=Net*_33 Pin=J4-8
+Added Net: Name=Net*_33
+Added Pin To Net: NetName=Net*_34 Pin=*-34
+Added Pin To Net: NetName=Net*_34 Pin=J4-7
+Added Net: Name=Net*_34
+Added Pin To Net: NetName=Net*_35 Pin=*-35
+Added Pin To Net: NetName=Net*_35 Pin=J4-6
+Added Net: Name=Net*_35
+Added Pin To Net: NetName=Net*_36 Pin=*-36
+Added Pin To Net: NetName=Net*_36 Pin=J4-5
+Added Net: Name=Net*_36
+Added Pin To Net: NetName=Net*_37 Pin=*-37
+Added Pin To Net: NetName=Net*_37 Pin=J4-4
+Added Net: Name=Net*_37
+Added Pin To Net: NetName=Net*_40 Pin=*-40
+Added Pin To Net: NetName=Net*_40 Pin=J4-1
+Added Net: Name=Net*_40
+Added Pin To Net: NetName=RX_Shield Pin=*-12
+Added Pin To Net: NetName=RX_Shield Pin=J5-9
+Added Pin To Net: NetName=RX_Shield Pin=J6-2
+Added Net: Name=RX_Shield
+Added Pin To Net: NetName=TX_Shield Pin=*-11
+Added Pin To Net: NetName=TX_Shield Pin=J5-10
+Added Pin To Net: NetName=TX_Shield Pin=J6-3
+Added Net: Name=TX_Shield
+Added Room: Name=Designator

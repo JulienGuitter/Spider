@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=+3.3 Pin=*_Borne1-1
+Removed Pin From Net: NetName=+3.3 Pin=*_Borne2-1
+Removed Pin From Net: NetName=+3.3 Pin=*_Borne3-1
+Added Component: Designator=JP1_Borne1(BARRETTE_2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "JUMPER2"; VariantName = "[No Variations]"
+Added Component: Designator=JP1_Borne2(BARRETTE_2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "JUMPER2"; VariantName = "[No Variations]"
+Added Component: Designator=JP1_Borne3(BARRETTE_2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "JUMPER2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=JP1_Borne1-1
+Added Pin To Net: NetName=+3.3 Pin=JP1_Borne2-1
+Added Pin To Net: NetName=+3.3 Pin=JP1_Borne3-1
+Added Pin To Net: NetName=Net*_Borne1_1 Pin=*_Borne1-1
+Added Pin To Net: NetName=Net*_Borne1_1 Pin=JP1_Borne1-2
+Added Net: Name=Net*_Borne1_1
+Added Pin To Net: NetName=Net*_Borne2_1 Pin=*_Borne2-1
+Added Pin To Net: NetName=Net*_Borne2_1 Pin=JP1_Borne2-2
+Added Net: Name=Net*_Borne2_1
+Added Pin To Net: NetName=Net*_Borne3_1 Pin=*_Borne3-1
+Added Pin To Net: NetName=Net*_Borne3_1 Pin=JP1_Borne3-2
+Added Net: Name=Net*_Borne3_1
+Added Member To Class: ClassName=Borne1 Member=Component JP1_Borne1 (JP1) JUMPER2
+Added Member To Class: ClassName=Borne2 Member=Component JP1_Borne2 (JP1) JUMPER2
+Added Member To Class: ClassName=Borne3 Member=Component JP1_Borne3 (JP1) JUMPER2

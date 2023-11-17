@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=MainSchema.SchDoc
+Record=SheetSymbol|SourceDocument=MainSchema.SchDoc|Designator=Legs1|SchDesignator=Repeat(Legs,1,1)|FileName=Leg.SchDoc|SymbolType=Normal|RawFileName=Leg.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

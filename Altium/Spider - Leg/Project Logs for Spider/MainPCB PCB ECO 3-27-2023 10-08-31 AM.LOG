@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-12
+Added Component: Designator=*_Borne1(BCR20H5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*_Borne2(BCR20H5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*_Borne3(BCR20H5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2_Borne1(MOD51822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2_Borne2(MOD51822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2_Borne3(MOD51822)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=*_Borne1-1
+Added Pin To Net: NetName=GND Pin=*_Borne1-2
+Added Pin To Net: NetName=+5 Pin=*_Borne2-1
+Added Pin To Net: NetName=GND Pin=*_Borne2-2
+Added Pin To Net: NetName=+5 Pin=*_Borne3-1
+Added Pin To Net: NetName=GND Pin=*_Borne3-2
+Added Pin To Net: NetName=GND Pin=U2_Borne1-1
+Added Pin To Net: NetName=GND Pin=U2_Borne1-12
+Added Pin To Net: NetName=GND Pin=U2_Borne2-1
+Added Pin To Net: NetName=GND Pin=U2_Borne2-12
+Added Pin To Net: NetName=GND Pin=U2_Borne3-1
+Added Pin To Net: NetName=GND Pin=U2_Borne3-12
+Added Class: Name=Borne1
+Added Class: Name=Borne2
+Added Class: Name=Borne3
+Change Room Name: Old Name=MainSchema New Name=Borne2
+Change Room Scope: Old Scope=InComponentClass('MainSchema') New Scope=InComponentClass('Borne2')
+Added Room: Name=Borne1
+Added Room: Name=Borne3

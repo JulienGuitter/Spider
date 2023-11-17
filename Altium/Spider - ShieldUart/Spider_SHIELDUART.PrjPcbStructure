@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=MainSchema.SchDoc
+Record=SheetSymbol|SourceDocument=MainSchema.SchDoc|Designator=ShieldUART|SchDesignator=ShieldUART|FileName=ShieldUart.SchDoc|SymbolType=Normal|RawFileName=ShieldUart.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

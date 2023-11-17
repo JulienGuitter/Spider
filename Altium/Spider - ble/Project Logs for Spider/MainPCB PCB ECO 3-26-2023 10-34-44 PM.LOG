@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Member To Class: ClassName=Designator Member=Component R1 RESISTANCE_CMS_0805

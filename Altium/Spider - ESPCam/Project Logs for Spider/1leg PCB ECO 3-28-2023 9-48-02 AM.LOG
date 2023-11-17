@@ -1,0 +1,544 @@
+Added Component: Designator=*_Borne1(BCR20H5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*_Borne2(BCR20H5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*_Borne3(BCR20H5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(Raspberry Pico)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BackLeg(BARRETTE_5X2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CONDENSATEUR_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=External1(BARRETTE_5X2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=External(BARRETTE_5X2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=FrontLeg(BARRETTE_5X2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J1(DOUILLE_BANANE_4mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "BANANE_4mm"; VariantName = "[No Variations]"
+Added Component: Designator=J2(DOUILLE_BANANE_4mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "BANANE_4mm"; VariantName = "[No Variations]"
+Added Component: Designator=J28_Legs1(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J28_Legs2(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J28_Legs3(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J28_Legs4(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J28_Legs5(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J28_Legs6(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J29_Legs1(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J29_Legs2(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J29_Legs3(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J29_Legs4(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J29_Legs5(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J29_Legs6(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J30_Legs1(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J30_Legs2(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J30_Legs3(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J30_Legs4(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J30_Legs5(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J30_Legs6(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J31_Legs1(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J31_Legs2(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J31_Legs3(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J31_Legs4(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J31_Legs5(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J31_Legs6(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=J?(BARRETTE_8_F_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Gyro"; VariantName = "[No Variations]"
+Added Component: Designator=JP1_Borne1(BARRETTE_2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "JUMPER2"; VariantName = "[No Variations]"
+Added Component: Designator=JP1_Borne2(BARRETTE_2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "JUMPER2"; VariantName = "[No Variations]"
+Added Component: Designator=JP1_Borne3(BARRETTE_2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "JUMPER2"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(BARRETTE_2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "JUMPER2"; VariantName = "[No Variations]"
+Added Component: Designator=LeftATmeg(QFP80P900X900X120-32N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA328P-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ATMEGA328P-AU/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MiddleLeg(BARRETTE_5X2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=Prog Left(BARRETTE_3X2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3X2"; VariantName = "[No Variations]"
+Added Component: Designator=Prog Right(BARRETTE_3X2_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3X2"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESISTANCE_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESISTANCE_CMS_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RightATmeg(QFP80P900X900X120-32N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA328P-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ATMEGA328P-AU/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2_Borne1(MOD51822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2_Borne2(MOD51822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2_Borne3(MOD51822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(MOD51822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(QUARTZ_DROIT_BP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "DROIT_BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(QUARTZ_DROIT_BP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "DROIT_BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=*-36
+Added Pin To Net: NetName=+3.3 Pin=U?-11
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=BackLeg-5
+Added Pin To Net: NetName=+5 Pin=BackLeg-6
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=External1-1
+Added Pin To Net: NetName=+5 Pin=External-1
+Added Pin To Net: NetName=+5 Pin=FrontLeg-5
+Added Pin To Net: NetName=+5 Pin=FrontLeg-6
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J28_Legs1-2
+Added Pin To Net: NetName=+5 Pin=J28_Legs2-2
+Added Pin To Net: NetName=+5 Pin=J28_Legs3-2
+Added Pin To Net: NetName=+5 Pin=J28_Legs4-2
+Added Pin To Net: NetName=+5 Pin=J28_Legs5-2
+Added Pin To Net: NetName=+5 Pin=J28_Legs6-2
+Added Pin To Net: NetName=+5 Pin=J29_Legs1-8
+Added Pin To Net: NetName=+5 Pin=J29_Legs2-8
+Added Pin To Net: NetName=+5 Pin=J29_Legs3-8
+Added Pin To Net: NetName=+5 Pin=J29_Legs4-8
+Added Pin To Net: NetName=+5 Pin=J29_Legs5-8
+Added Pin To Net: NetName=+5 Pin=J29_Legs6-8
+Added Pin To Net: NetName=+5 Pin=J30_Legs1-2
+Added Pin To Net: NetName=+5 Pin=J30_Legs2-2
+Added Pin To Net: NetName=+5 Pin=J30_Legs3-2
+Added Pin To Net: NetName=+5 Pin=J30_Legs4-2
+Added Pin To Net: NetName=+5 Pin=J30_Legs5-2
+Added Pin To Net: NetName=+5 Pin=J30_Legs6-2
+Added Pin To Net: NetName=+5 Pin=J31_Legs1-2
+Added Pin To Net: NetName=+5 Pin=J31_Legs2-2
+Added Pin To Net: NetName=+5 Pin=J31_Legs3-2
+Added Pin To Net: NetName=+5 Pin=J31_Legs4-2
+Added Pin To Net: NetName=+5 Pin=J31_Legs5-2
+Added Pin To Net: NetName=+5 Pin=J31_Legs6-2
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=+5 Pin=JP2-1
+Added Pin To Net: NetName=+5 Pin=LeftATmeg-4
+Added Pin To Net: NetName=+5 Pin=LeftATmeg-6
+Added Pin To Net: NetName=+5 Pin=LeftATmeg-18
+Added Pin To Net: NetName=+5 Pin=MiddleLeg-5
+Added Pin To Net: NetName=+5 Pin=MiddleLeg-6
+Added Pin To Net: NetName=+5 Pin=Prog Left-5
+Added Pin To Net: NetName=+5 Pin=Prog Right-5
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=+5 Pin=R2-1
+Added Pin To Net: NetName=+5 Pin=RightATmeg-4
+Added Pin To Net: NetName=+5 Pin=RightATmeg-6
+Added Pin To Net: NetName=+5 Pin=RightATmeg-18
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-8
+Added Pin To Net: NetName=GND Pin=*-13
+Added Pin To Net: NetName=GND Pin=*-18
+Added Pin To Net: NetName=GND Pin=*-23
+Added Pin To Net: NetName=GND Pin=*-28
+Added Pin To Net: NetName=GND Pin=*-33
+Added Pin To Net: NetName=GND Pin=*-38
+Added Pin To Net: NetName=GND Pin=*_Borne1-2
+Added Pin To Net: NetName=GND Pin=*_Borne2-2
+Added Pin To Net: NetName=GND Pin=*_Borne3-2
+Added Pin To Net: NetName=GND Pin=BackLeg-4
+Added Pin To Net: NetName=GND Pin=BackLeg-7
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=External1-7
+Added Pin To Net: NetName=GND Pin=External-7
+Added Pin To Net: NetName=GND Pin=FrontLeg-4
+Added Pin To Net: NetName=GND Pin=FrontLeg-7
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J28_Legs1-3
+Added Pin To Net: NetName=GND Pin=J28_Legs2-3
+Added Pin To Net: NetName=GND Pin=J28_Legs3-3
+Added Pin To Net: NetName=GND Pin=J28_Legs4-3
+Added Pin To Net: NetName=GND Pin=J28_Legs5-3
+Added Pin To Net: NetName=GND Pin=J28_Legs6-3
+Added Pin To Net: NetName=GND Pin=J29_Legs1-10
+Added Pin To Net: NetName=GND Pin=J29_Legs2-10
+Added Pin To Net: NetName=GND Pin=J29_Legs3-10
+Added Pin To Net: NetName=GND Pin=J29_Legs4-10
+Added Pin To Net: NetName=GND Pin=J29_Legs5-10
+Added Pin To Net: NetName=GND Pin=J29_Legs6-10
+Added Pin To Net: NetName=GND Pin=J30_Legs1-3
+Added Pin To Net: NetName=GND Pin=J30_Legs2-3
+Added Pin To Net: NetName=GND Pin=J30_Legs3-3
+Added Pin To Net: NetName=GND Pin=J30_Legs4-3
+Added Pin To Net: NetName=GND Pin=J30_Legs5-3
+Added Pin To Net: NetName=GND Pin=J30_Legs6-3
+Added Pin To Net: NetName=GND Pin=J31_Legs1-3
+Added Pin To Net: NetName=GND Pin=J31_Legs2-3
+Added Pin To Net: NetName=GND Pin=J31_Legs3-3
+Added Pin To Net: NetName=GND Pin=J31_Legs4-3
+Added Pin To Net: NetName=GND Pin=J31_Legs5-3
+Added Pin To Net: NetName=GND Pin=J31_Legs6-3
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=LeftATmeg-3
+Added Pin To Net: NetName=GND Pin=LeftATmeg-5
+Added Pin To Net: NetName=GND Pin=LeftATmeg-21
+Added Pin To Net: NetName=GND Pin=MiddleLeg-4
+Added Pin To Net: NetName=GND Pin=MiddleLeg-7
+Added Pin To Net: NetName=GND Pin=Prog Left-6
+Added Pin To Net: NetName=GND Pin=Prog Right-6
+Added Pin To Net: NetName=GND Pin=RightATmeg-3
+Added Pin To Net: NetName=GND Pin=RightATmeg-5
+Added Pin To Net: NetName=GND Pin=RightATmeg-21
+Added Pin To Net: NetName=GND Pin=U2_Borne1-1
+Added Pin To Net: NetName=GND Pin=U2_Borne1-12
+Added Pin To Net: NetName=GND Pin=U2_Borne2-1
+Added Pin To Net: NetName=GND Pin=U2_Borne2-12
+Added Pin To Net: NetName=GND Pin=U2_Borne3-1
+Added Pin To Net: NetName=GND Pin=U2_Borne3-12
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO1 Pin=LeftATmeg-16
+Added Pin To Net: NetName=MISO1 Pin=Prog Left-2
+Added Net: Name=MISO1
+Added Pin To Net: NetName=MISO2 Pin=Prog Right-2
+Added Pin To Net: NetName=MISO2 Pin=RightATmeg-16
+Added Net: Name=MISO2
+Added Pin To Net: NetName=MOSI1 Pin=LeftATmeg-15
+Added Pin To Net: NetName=MOSI1 Pin=Prog Left-1
+Added Net: Name=MOSI1
+Added Pin To Net: NetName=MOSI2 Pin=Prog Right-1
+Added Pin To Net: NetName=MOSI2 Pin=RightATmeg-15
+Added Net: Name=MOSI2
+Added Pin To Net: NetName=Net*_39 Pin=*-39
+Added Pin To Net: NetName=Net*_39 Pin=JP2-2
+Added Net: Name=Net*_39
+Added Pin To Net: NetName=Net*_Borne1_1 Pin=*_Borne1-1
+Added Pin To Net: NetName=Net*_Borne1_1 Pin=JP1_Borne1-1
+Added Net: Name=Net*_Borne1_1
+Added Pin To Net: NetName=Net*_Borne2_1 Pin=*_Borne2-1
+Added Pin To Net: NetName=Net*_Borne2_1 Pin=JP1_Borne2-1
+Added Net: Name=Net*_Borne2_1
+Added Pin To Net: NetName=Net*_Borne3_1 Pin=*_Borne3-1
+Added Pin To Net: NetName=Net*_Borne3_1 Pin=JP1_Borne3-1
+Added Net: Name=Net*_Borne3_1
+Added Pin To Net: NetName=NetBackLeg_1 Pin=BackLeg-1
+Added Pin To Net: NetName=NetBackLeg_1 Pin=LeftATmeg-1
+Added Net: Name=NetBackLeg_1
+Added Pin To Net: NetName=NetBackLeg_2 Pin=BackLeg-2
+Added Pin To Net: NetName=NetBackLeg_2 Pin=LeftATmeg-32
+Added Net: Name=NetBackLeg_2
+Added Pin To Net: NetName=NetBackLeg_3 Pin=BackLeg-3
+Added Pin To Net: NetName=NetBackLeg_3 Pin=LeftATmeg-2
+Added Net: Name=NetBackLeg_3
+Added Pin To Net: NetName=NetBackLeg_8 Pin=BackLeg-8
+Added Pin To Net: NetName=NetBackLeg_8 Pin=RightATmeg-2
+Added Net: Name=NetBackLeg_8
+Added Pin To Net: NetName=NetBackLeg_9 Pin=BackLeg-9
+Added Pin To Net: NetName=NetBackLeg_9 Pin=RightATmeg-32
+Added Net: Name=NetBackLeg_9
+Added Pin To Net: NetName=NetBackLeg_10 Pin=BackLeg-10
+Added Pin To Net: NetName=NetBackLeg_10 Pin=RightATmeg-1
+Added Net: Name=NetBackLeg_10
+Added Pin To Net: NetName=NetFrontLeg_1 Pin=FrontLeg-1
+Added Pin To Net: NetName=NetFrontLeg_1 Pin=LeftATmeg-10
+Added Net: Name=NetFrontLeg_1
+Added Pin To Net: NetName=NetFrontLeg_2 Pin=FrontLeg-2
+Added Pin To Net: NetName=NetFrontLeg_2 Pin=LeftATmeg-9
+Added Net: Name=NetFrontLeg_2
+Added Pin To Net: NetName=NetFrontLeg_3 Pin=FrontLeg-3
+Added Pin To Net: NetName=NetFrontLeg_3 Pin=LeftATmeg-11
+Added Net: Name=NetFrontLeg_3
+Added Pin To Net: NetName=NetFrontLeg_8 Pin=FrontLeg-8
+Added Pin To Net: NetName=NetFrontLeg_8 Pin=RightATmeg-11
+Added Net: Name=NetFrontLeg_8
+Added Pin To Net: NetName=NetFrontLeg_9 Pin=FrontLeg-9
+Added Pin To Net: NetName=NetFrontLeg_9 Pin=RightATmeg-9
+Added Net: Name=NetFrontLeg_9
+Added Pin To Net: NetName=NetFrontLeg_10 Pin=FrontLeg-10
+Added Pin To Net: NetName=NetFrontLeg_10 Pin=RightATmeg-10
+Added Net: Name=NetFrontLeg_10
+Added Pin To Net: NetName=NetJ28_Legs1_1 Pin=J28_Legs1-1
+Added Pin To Net: NetName=NetJ28_Legs1_1 Pin=J29_Legs1-2
+Added Net: Name=NetJ28_Legs1_1
+Added Pin To Net: NetName=NetJ28_Legs2_1 Pin=J28_Legs2-1
+Added Pin To Net: NetName=NetJ28_Legs2_1 Pin=J29_Legs2-2
+Added Net: Name=NetJ28_Legs2_1
+Added Pin To Net: NetName=NetJ28_Legs3_1 Pin=J28_Legs3-1
+Added Pin To Net: NetName=NetJ28_Legs3_1 Pin=J29_Legs3-2
+Added Net: Name=NetJ28_Legs3_1
+Added Pin To Net: NetName=NetJ28_Legs4_1 Pin=J28_Legs4-1
+Added Pin To Net: NetName=NetJ28_Legs4_1 Pin=J29_Legs4-2
+Added Net: Name=NetJ28_Legs4_1
+Added Pin To Net: NetName=NetJ28_Legs5_1 Pin=J28_Legs5-1
+Added Pin To Net: NetName=NetJ28_Legs5_1 Pin=J29_Legs5-2
+Added Net: Name=NetJ28_Legs5_1
+Added Pin To Net: NetName=NetJ28_Legs6_1 Pin=J28_Legs6-1
+Added Pin To Net: NetName=NetJ28_Legs6_1 Pin=J29_Legs6-2
+Added Net: Name=NetJ28_Legs6_1
+Added Pin To Net: NetName=NetJ29_Legs1_4 Pin=J29_Legs1-4
+Added Pin To Net: NetName=NetJ29_Legs1_4 Pin=J30_Legs1-1
+Added Net: Name=NetJ29_Legs1_4
+Added Pin To Net: NetName=NetJ29_Legs1_6 Pin=J29_Legs1-6
+Added Pin To Net: NetName=NetJ29_Legs1_6 Pin=J31_Legs1-1
+Added Net: Name=NetJ29_Legs1_6
+Added Pin To Net: NetName=NetJ29_Legs2_4 Pin=J29_Legs2-4
+Added Pin To Net: NetName=NetJ29_Legs2_4 Pin=J30_Legs2-1
+Added Net: Name=NetJ29_Legs2_4
+Added Pin To Net: NetName=NetJ29_Legs2_6 Pin=J29_Legs2-6
+Added Pin To Net: NetName=NetJ29_Legs2_6 Pin=J31_Legs2-1
+Added Net: Name=NetJ29_Legs2_6
+Added Pin To Net: NetName=NetJ29_Legs3_4 Pin=J29_Legs3-4
+Added Pin To Net: NetName=NetJ29_Legs3_4 Pin=J30_Legs3-1
+Added Net: Name=NetJ29_Legs3_4
+Added Pin To Net: NetName=NetJ29_Legs3_6 Pin=J29_Legs3-6
+Added Pin To Net: NetName=NetJ29_Legs3_6 Pin=J31_Legs3-1
+Added Net: Name=NetJ29_Legs3_6
+Added Pin To Net: NetName=NetJ29_Legs4_4 Pin=J29_Legs4-4
+Added Pin To Net: NetName=NetJ29_Legs4_4 Pin=J30_Legs4-1
+Added Net: Name=NetJ29_Legs4_4
+Added Pin To Net: NetName=NetJ29_Legs4_6 Pin=J29_Legs4-6
+Added Pin To Net: NetName=NetJ29_Legs4_6 Pin=J31_Legs4-1
+Added Net: Name=NetJ29_Legs4_6
+Added Pin To Net: NetName=NetJ29_Legs5_4 Pin=J29_Legs5-4
+Added Pin To Net: NetName=NetJ29_Legs5_4 Pin=J30_Legs5-1
+Added Net: Name=NetJ29_Legs5_4
+Added Pin To Net: NetName=NetJ29_Legs5_6 Pin=J29_Legs5-6
+Added Pin To Net: NetName=NetJ29_Legs5_6 Pin=J31_Legs5-1
+Added Net: Name=NetJ29_Legs5_6
+Added Pin To Net: NetName=NetJ29_Legs6_4 Pin=J29_Legs6-4
+Added Pin To Net: NetName=NetJ29_Legs6_4 Pin=J30_Legs6-1
+Added Net: Name=NetJ29_Legs6_4
+Added Pin To Net: NetName=NetJ29_Legs6_6 Pin=J29_Legs6-6
+Added Pin To Net: NetName=NetJ29_Legs6_6 Pin=J31_Legs6-1
+Added Net: Name=NetJ29_Legs6_6
+Added Pin To Net: NetName=NetJP1_Borne1_2 Pin=JP1_Borne1-2
+Added Pin To Net: NetName=NetJP1_Borne1_2 Pin=U2_Borne1-11
+Added Net: Name=NetJP1_Borne1_2
+Added Pin To Net: NetName=NetJP1_Borne2_2 Pin=JP1_Borne2-2
+Added Pin To Net: NetName=NetJP1_Borne2_2 Pin=U2_Borne2-11
+Added Net: Name=NetJP1_Borne2_2
+Added Pin To Net: NetName=NetJP1_Borne3_2 Pin=JP1_Borne3-2
+Added Pin To Net: NetName=NetJP1_Borne3_2 Pin=U2_Borne3-11
+Added Net: Name=NetJP1_Borne3_2
+Added Pin To Net: NetName=NetLeftATmeg_12 Pin=LeftATmeg-12
+Added Pin To Net: NetName=NetLeftATmeg_12 Pin=MiddleLeg-3
+Added Net: Name=NetLeftATmeg_12
+Added Pin To Net: NetName=NetLeftATmeg_13 Pin=LeftATmeg-13
+Added Pin To Net: NetName=NetLeftATmeg_13 Pin=MiddleLeg-1
+Added Net: Name=NetLeftATmeg_13
+Added Pin To Net: NetName=NetLeftATmeg_14 Pin=LeftATmeg-14
+Added Pin To Net: NetName=NetLeftATmeg_14 Pin=MiddleLeg-2
+Added Net: Name=NetLeftATmeg_14
+Added Pin To Net: NetName=NetMiddleLeg_8 Pin=MiddleLeg-8
+Added Pin To Net: NetName=NetMiddleLeg_8 Pin=RightATmeg-12
+Added Net: Name=NetMiddleLeg_8
+Added Pin To Net: NetName=NetMiddleLeg_9 Pin=MiddleLeg-9
+Added Pin To Net: NetName=NetMiddleLeg_9 Pin=RightATmeg-14
+Added Net: Name=NetMiddleLeg_9
+Added Pin To Net: NetName=NetMiddleLeg_10 Pin=MiddleLeg-10
+Added Pin To Net: NetName=NetMiddleLeg_10 Pin=RightATmeg-13
+Added Net: Name=NetMiddleLeg_10
+Added Pin To Net: NetName=OSC11 Pin=C5-2
+Added Pin To Net: NetName=OSC11 Pin=LeftATmeg-7
+Added Pin To Net: NetName=OSC11 Pin=Y1-1
+Added Net: Name=OSC11
+Added Pin To Net: NetName=OSC12 Pin=C6-2
+Added Pin To Net: NetName=OSC12 Pin=LeftATmeg-8
+Added Pin To Net: NetName=OSC12 Pin=Y1-2
+Added Net: Name=OSC12
+Added Pin To Net: NetName=OSC21 Pin=C7-2
+Added Pin To Net: NetName=OSC21 Pin=RightATmeg-7
+Added Pin To Net: NetName=OSC21 Pin=Y2-1
+Added Net: Name=OSC21
+Added Pin To Net: NetName=OSC22 Pin=C8-2
+Added Pin To Net: NetName=OSC22 Pin=RightATmeg-8
+Added Pin To Net: NetName=OSC22 Pin=Y2-2
+Added Net: Name=OSC22
+Added Pin To Net: NetName=Reset1 Pin=LeftATmeg-29
+Added Pin To Net: NetName=Reset1 Pin=Prog Left-4
+Added Pin To Net: NetName=Reset1 Pin=R1-2
+Added Net: Name=Reset1
+Added Pin To Net: NetName=Reset2 Pin=Prog Right-4
+Added Pin To Net: NetName=Reset2 Pin=R2-2
+Added Pin To Net: NetName=Reset2 Pin=RightATmeg-29
+Added Net: Name=Reset2
+Added Pin To Net: NetName=RX_BLE Pin=*-1
+Added Pin To Net: NetName=RX_BLE Pin=U?-25
+Added Net: Name=RX_BLE
+Added Pin To Net: NetName=SCK1 Pin=LeftATmeg-17
+Added Pin To Net: NetName=SCK1 Pin=Prog Left-3
+Added Net: Name=SCK1
+Added Pin To Net: NetName=SCK2 Pin=Prog Right-3
+Added Pin To Net: NetName=SCK2 Pin=RightATmeg-17
+Added Net: Name=SCK2
+Added Pin To Net: NetName=SCL_E Pin=*-7
+Added Pin To Net: NetName=SCL_E Pin=External1-3
+Added Net: Name=SCL_E
+Added Pin To Net: NetName=SCL_G Pin=*-20
+Added Pin To Net: NetName=SCL_G Pin=J?-3
+Added Net: Name=SCL_G
+Added Pin To Net: NetName=SCL Pin=External-3
+Added Pin To Net: NetName=SCL Pin=LeftATmeg-28
+Added Pin To Net: NetName=SCL Pin=RightATmeg-28
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA_E Pin=*-6
+Added Pin To Net: NetName=SDA_E Pin=External1-5
+Added Net: Name=SDA_E
+Added Pin To Net: NetName=SDA_G Pin=*-19
+Added Pin To Net: NetName=SDA_G Pin=J?-4
+Added Net: Name=SDA_G
+Added Pin To Net: NetName=SDA Pin=External-5
+Added Pin To Net: NetName=SDA Pin=LeftATmeg-27
+Added Pin To Net: NetName=SDA Pin=RightATmeg-27
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX_BLE Pin=*-2
+Added Pin To Net: NetName=TX_BLE Pin=U?-23
+Added Net: Name=TX_BLE
+Added Class: Name=Borne1
+Added Class: Name=Borne2
+Added Class: Name=Borne3
+Added Class: Name=Designator
+Added Class: Name=Legs1
+Added Class: Name=Legs2
+Added Class: Name=Legs3
+Added Class: Name=Legs4
+Added Class: Name=Legs5
+Added Class: Name=Legs6
+Added Class: Name=Raspberry
+Added Class: Name=Borne
+Added Class: Name=Leg
+Added Room: Name=Borne1
+Added Room: Name=Borne2
+Added Room: Name=Borne3
+Added Room: Name=Designator
+Added Room: Name=Legs1
+Added Room: Name=Legs2
+Added Room: Name=Legs3
+Added Room: Name=Legs4
+Added Room: Name=Legs5
+Added Room: Name=Legs6
+Added Room: Name=Raspberry

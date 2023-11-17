@@ -1,0 +1,45 @@
+Added Component: Designator=J1(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J2(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=J3(BARRETTE_5X2_M_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_C_5X2"; VariantName = "[No Variations]"
+Added Component: Designator=U2(QFP80P900X900X120-32N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA328P-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ATMEGA328P-AU/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(QFP80P900X900X120-32N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA328P-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ATMEGA328P-AU/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-21
+Added Net: Name=GND
+Added Member To Class: ClassName=MainSchema Member=Component J1 BARRETTE_5 CONTACTS_2 RANGEES_MALE_COUDEE
+Added Member To Class: ClassName=MainSchema Member=Component J2 BARRETTE_5 CONTACTS_2 RANGEES_MALE_COUDEE
+Added Member To Class: ClassName=MainSchema Member=Component J3 BARRETTE_5 CONTACTS_2 RANGEES_MALE_COUDEE
+Added Member To Class: ClassName=MainSchema Member=Component U2 ATMEGA328P-AU
+Added Member To Class: ClassName=MainSchema Member=Component U3 ATMEGA328P-AU

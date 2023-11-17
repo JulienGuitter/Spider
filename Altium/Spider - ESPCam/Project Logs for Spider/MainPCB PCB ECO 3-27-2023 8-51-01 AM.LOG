@@ -1,0 +1,10 @@
+Added Component: Designator=J1(DOUILLE_BANANE_4mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "BANANE_4mm"; VariantName = "[No Variations]"
+Added Component: Designator=J2(DOUILLE_BANANE_4mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "BANANE_4mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Member To Class: ClassName=Designator Member=Component J1 Alim 5v
+Added Member To Class: ClassName=Designator Member=Component J2 Alim GND
