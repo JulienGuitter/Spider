@@ -1,8 +1,0 @@
-Removed Member From Class: ClassName=MainSchema Member=U1
-Added Component: Designator=J4(BARRETTE_5X2_M_D)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Type"; Value = "M_D_5X2"; VariantName = "[No Variations]"
-Change Class Name : Old Net Name=MainSchema New Net Name=Designator
-Added Class: Name=MainSchema
-Added Member To Class: ClassName=Designator Member=Component J4 BARRETTE_5 CONTACTS_2 RANGEES_MALE_DROITE
-Added Room: Name=Designator

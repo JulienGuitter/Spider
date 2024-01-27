@@ -1,8 +1,0 @@
-Added Component: Designator=J?(BARRETTE_10_F_D)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Type"; Value = "F_D_10"; VariantName = "[No Variations]"
-Added Component: Designator=J?(BARRETTE_10_F_D)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Type"; Value = "F_D_10"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=Designator Member=Component J? BARRETTE_10 CONTACTS_1 RANGEE_FEMELLE_DROITE
-Added Member To Class: ClassName=Designator Member=Component J? BARRETTE_10 CONTACTS_1 RANGEE_FEMELLE_DROITE
